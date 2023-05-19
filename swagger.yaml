@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: '1.0'
-  title: INAHRS Api
+  title: INAHRS
   contact: {}
 host: inahrs.or.id
 basePath: /asm2023/api/mobile/v2
