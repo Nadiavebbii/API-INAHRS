@@ -2180,7 +2180,7 @@ paths:
     get:
       summary: Programme At Glance
       tags:
-      - Misc
+      - Programme At Glance
       operationId: ProgrammeAtGlance
       deprecated: false
       produces:
@@ -2273,7 +2273,7 @@ paths:
     get:
       summary: Get Barcode
       tags:
-      - Misc
+      - Get Barcode
       operationId: GetBarcode
       deprecated: false
       produces:
@@ -5856,5 +5856,4 @@ tags:
 - name: Registration
 - name: Session
 - name: Profile
-- name: Misc
   description: ''
